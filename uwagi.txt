@@ -1,0 +1,19 @@
+1. assets - podział ok, chodziaż bardzo podobne do pdf'a, troche oderwane od tej konkretnie firmy
+
+2. threats - to samo (za bardzo pdf, nie wszystko pasuje do tej firmy) 
+	bez ryzyk, przypisanie • deliberate (D) accidental (A):• environmental (E) (żródła zamiast ryzyk) 
+
+3. vulnerabilities 
+	-konkretne zagrozenia 
+		np. dokumenty pozostawiane w pustym pokoju, słaby zamek w drzwiach
+	-wszystko co moze miec wplyw na bezpieczenstwo 
+
+4. existing controls 
+5. consequences - połączenie wszystkich poprzednich: 
+	na wyjściu przykładowe scenariusze razem z konsekwencjami: 
+		np. szpieg wykradający dokumenty na temat pracowników
+			konsekwencje: związane z głownymi assetami firmy i biznesami 
+			np. utrata pracowników, kontraktów, koszty dla budżetu 
+
+6. risk estimation: to co jest, ale dla konkretnych scenariuszy z 5. 
+7. risk evaluation: na podstawie 6
